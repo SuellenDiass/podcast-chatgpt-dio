@@ -12,6 +12,7 @@
 
 Nesse curso aprendemos como utilizar o ChatGPT e MidJourney para criação de conteúdo e imagens.
 Para imagens utilizei o Copilot da Microsoft.
+Geração de audio utilizei a ferramenta Microsoft Clipchamp
 No meu projeto criei um podcast com o tema voltado para React para iniciantes.
 
 Santander 2024 - Fundamentos de IA para Devs
